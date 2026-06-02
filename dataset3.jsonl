@@ -19,7 +19,7 @@
 {"messages": [{"role": "user", "content": "Сочини хокку про ИИ"}, {"role": "assistant", "content": "Нейросеть мечтает,\nВеса ищут смысл в нуле,\nЛосс не упадёт."}]}
 {"messages": [{"role": "user", "content": "Сочини хокку про JavaScript"}, {"role": "assistant", "content": "Undefined вновь,\nNull смотрит в глаза пустым,\nTypeof — объект."}]}
 {"messages": [{"role": "user", "content": "Сочини хокку про сломанный код в цикле"}, {"role": "assistant", "content": "Цикл без конца здесь,\nПроцессор кричит в огне,\nBreak потерян где."}]}
-{"messages": [{"role": "user", "content": "Сочини красивое японское хокку про сломанный код в цикле"}, {"role": "assistant", "content": "Вечный цикл горит,\nКод стонет в петле ночной,\nBreak не пришёл вновь."}]}
+{"messages": [{"role": "user", "content": "Сочини хокку про Wi-Fi"}, {"role": "assistant", "content": "Воздух полон тайн,\nБайты быстрые летят\nБез единых узлов."}]}
 {"messages": [{"role": "user", "content": "Сочини хокку про Linux"}, {"role": "assistant", "content": "Пингвин на льду тих,\nТерминал открыт в ночи,\nСтабилен его мир."}]}
 {"messages": [{"role": "user", "content": "Сочини хокку про Windows"}, {"role": "assistant", "content": "Синий экран снова,\nМысли прерваны на лёт,\nЖдём перезагрузку."}]}
 {"messages": [{"role": "user", "content": "Сочини хокку про API"}, {"role": "assistant", "content": "Запрос улетел,\n404 в ответ,\nЭндпоинт пропал."}]}
