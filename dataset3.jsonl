@@ -1,30 +1,30 @@
-{"messages": [{"role": "user", "content": "Сочини хокку про баг"}, {"role": "assistant", "content": "Баг в коде притих,\nЛоги молчат в темноте,\nНочь без ужина."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про программиста"}, {"role": "assistant", "content": "Монитор мигнул,\nКод рассыпался в пыли,\nКофе стынет зря."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про отладку"}, {"role": "assistant", "content": "Строка за строкой,\nОтладчик ищет ответ,\nРассвет на окне."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про компилятор"}, {"role": "assistant", "content": "Компилятор строг,\nОшибка прячется вглубь,\nТочка с запятой."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про git"}, {"role": "assistant", "content": "Коммит улетел,\nВетка осталась одна,\nМёрж не задался."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про сервер"}, {"role": "assistant", "content": "Сервер не молчит,\nЗапросы текут рекой,\nАдмин видит сны."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про дедлайн"}, {"role": "assistant", "content": "Часы идут вспять,\nКод ещё не написан,\nДедлайн на заре."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про Python"}, {"role": "assistant", "content": "Питон тих и прост,\nОтступы держат порядок,\nСписок пуст пока."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про цикл"}, {"role": "assistant", "content": "Цикл крутится вновь,\nВыхода нет из петли,\nCtrl-C спасёт."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про базу данных"}, {"role": "assistant", "content": "Таблица пуста,\nЗапрос ушёл в никуда,\nДанных не нашлось."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про кофе программиста"}, {"role": "assistant", "content": "Чашка на столе,\nПар поднимается вверх,\nКод бежит вперёд."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про рефакторинг"}, {"role": "assistant", "content": "Старый код убрал,\nНовый вырос как росток,\nПахнет чище он."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про pull request"}, {"role": "assistant", "content": "PR открыт был,\nРевьюер уснул в тишине,\nМёрж ждёт до утра."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про исключение"}, {"role": "assistant", "content": "Exception упал,\nСтек трейс длинен, как ночь,\nНикто не поймал."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про память"}, {"role": "assistant", "content": "Память утекла,\nУказатель в пустоту,\nСегфолт и тишь."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про тест"}, {"role": "assistant", "content": "Тест не прошёл вновь,\nПокрытие упало,\nПипелайн завис."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про алгоритм"}, {"role": "assistant", "content": "Алгоритм пошёл,\nО-большое растёт вглубь,\nВремя на исходе."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про докер"}, {"role": "assistant", "content": "Контейнер упал,\nОбраз ищет свой слой,\nПорт занят опять."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про ИИ"}, {"role": "assistant", "content": "Нейросеть мечтает,\nВеса ищут смысл в нуле,\nЛосс не упадёт."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про JavaScript"}, {"role": "assistant", "content": "Undefined вновь,\nNull смотрит в глаза пустым,\nTypeof — объект."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про сломанный код в цикле"}, {"role": "assistant", "content": "Цикл без конца здесь,\nПроцессор кричит в огне,\nBreak потерян где."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про Wi-Fi"}, {"role": "assistant", "content": "Воздух полон тайн,\nБайты быстрые летят\nБез единых узлов."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про Linux"}, {"role": "assistant", "content": "Пингвин на льду тих,\nТерминал открыт в ночи,\nСтабилен его мир."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про Windows"}, {"role": "assistant", "content": "Синий экран снова,\nМысли прерваны на лёт,\nЖдём перезагрузку."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про API"}, {"role": "assistant", "content": "Запрос улетел,\n404 в ответ,\nЭндпоинт пропал."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про переменную"}, {"role": "assistant", "content": "Имя дал не то,\nПеременная течёт вдаль,\nСмысл потерян здесь."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про код-ревью"}, {"role": "assistant", "content": "Ревьюер суров,\nКаждая строка под судом,\nПолночь. Правлю всё."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про ночное программирование"}, {"role": "assistant", "content": "Все давно спят уже,\nТолько курсор мигает,\nИдея пришла."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про деплой"}, {"role": "assistant", "content": "Деплой в пятницу,\nСервер молчит в темноте,\nПонедельник ждёт."}]}
-{"messages": [{"role": "user", "content": "Сочини хокку про Stack Overflow"}, {"role": "assistant", "content": "Ответ найден там,\nCopy-paste в два касания,\nКод заработал."}]}
+{"text": "<start_of_turn>user\nСочини хокку про баг<end_of_turn>\n<start_of_turn>model\nБаг в коде притих,\\nЛоги молчат в темноте,\\nНочь без ужина.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про программиста<end_of_turn>\n<start_of_turn>model\nМонитор мигнул,\\nКод рассыпался в пыли,\\nКофе стынет зря.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про отладку<end_of_turn>\n<start_of_turn>model\nСтрока за строкой,\\nОтладчик ищет ответ,\\nРассвет на окне.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про компилятор<end_of_turn>\n<start_of_turn>model\nКомпилятор строг,\\nОшибка прячется вглубь,\\nТочка с запятой.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про git<end_of_turn>\n<start_of_turn>model\nКоммит улетел,\\nВетка осталась одна,\\nМерж не задался.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про сервер<end_of_turn>\n<start_of_turn>model\nСервер не молчит,\\nЗапросы текут рекой,\\nАдмин видит сны.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про дедлайн<end_of_turn>\n<start_of_turn>model\nЧасы идут вспять,\\nКод еще не написан,\\nДедлайн на заре.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про Python<end_of_turn>\n<start_of_turn>model\nПитон тих и прост,\\nОтступы держат порядок,\\nСписок пуст пока.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про цикл<end_of_turn>\n<start_of_turn>model\nЦикл крутится вновь,\\nВыхода нет из петли,\\nCtrl+C спасёт.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про базу данных<end_of_turn>\n<start_of_turn>model\nТаблица пуста,\\nЗапрос ушёл в никуда,\\nДанных не нашлось.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про кофе программиста<end_of_turn>\n<start_of_turn>model\nЧашка на столе,\\nПар поднимается вверх,\\nКод бежит вперёд.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про рефакторинг<end_of_turn>\n<start_of_turn>model\nСтарый код убрал,\\nНовый вырос как росток,\\nПахнет чище он.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про pull request<end_of_turn>\n<start_of_turn>model\nPR открыт был,\\nРевьюер уснул в тишине,\\nМерж ждёт до утра.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про исключение<end_of_turn>\n<start_of_turn>model\nException упал,\\nСтек трейс длиннен, как ночь,\\nНикто не поймал.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про память<end_of_turn>\n<start_of_turn>model\nПамять утекла,\\nУказатель в пустоту,\\nСегфолт и тишь.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про тест<end_of_turn>\n<start_of_turn>model\nТест не прошёл вновь,\\nПокрытие упало,\\nПайплайн завис.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про алгоритм<end_of_turn>\n<start_of_turn>model\nАлгоритм пошёл,\\nО-большое растёт вглубь,\\nВремя на исходе.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про докер<end_of_turn>\n<start_of_turn>model\nКонтейнер упал,\\nОбраз идет свой слой,\\nПорт занят опять.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про ИИ<end_of_turn>\n<start_of_turn>model\nНейросеть мечтает,\\nВеса ищут смысл в нуле,\\nЛосс не упадёт.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про JavaScript<end_of_turn>\n<start_of_turn>model\nUndefined вновь,\\nNull смотрит в глаза пустым,\\ntypeof — объект.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про сломанный код в цикле<end_of_turn>\n<start_of_turn>model\nЦикл без конца здесь,\\nПроцессор кричит в огне,\\nBreak потерян где-то.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про wi-fi<end_of_turn>\n<start_of_turn>model\nВоздух полон тайн,\\nБайты быстрые летят,\\nБез единых узлов.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про Linux<end_of_turn>\n<start_of_turn>model\nПингвин на льду тих,\\nТерминал открыт в ночи,\\nСтабилен его мир.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про Windows<end_of_turn>\n<start_of_turn>model\nСиний экран снова,\\nМысли прерваны на лет,\\nЖдём перезагрузку.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про API<end_of_turn>\n<start_of_turn>model\nЗапрос улетел,\\n404 в ответ,\\nЭндпоинт пропал.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про переменную<end_of_turn>\n<start_of_turn>model\nИмя дал не то,\\nПеременная течёт вдаль,\\nСмысл потерян здесь.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про код-ревью<end_of_turn>\n<start_of_turn>model\nРевьюер суров,\\nКаждая строка под судом,\\nПолночь. Правлю всё.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про ночное программирование<end_of_turn>\n<start_of_turn>model\nВсе давно спят уже,\\nТолько курсор мигает,\\nИдея пришла.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про деплой<end_of_turn>\n<start_of_turn>model\nДеплой в пятницу,\\nСервер молчит в темноте,\\nПонедельник ждёт.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про Stack Overflow<end_of_turn>\n<start_of_turn>model\nОтвет найден там,\\nCopy-paste в два касания,\\nКод заработал.<end_of_turn>"}
