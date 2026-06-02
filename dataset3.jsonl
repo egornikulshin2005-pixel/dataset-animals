@@ -16,7 +16,7 @@
 {"text": "<start_of_turn>user\nСочини хокку про тест<end_of_turn>\n<start_of_turn>model\nТест не прошёл вновь,\\nПокрытие упало,\\nПайплайн завис.<end_of_turn>"}
 {"text": "<start_of_turn>user\nСочини хокку про алгоритм<end_of_turn>\n<start_of_turn>model\nАлгоритм пошёл,\\nО-большое растёт вглубь,\\nВремя на исходе.<end_of_turn>"}
 {"text": "<start_of_turn>user\nСочини хокку про докер<end_of_turn>\n<start_of_turn>model\nКонтейнер упал,\\nОбраз идет свой слой,\\nПорт занят опять.<end_of_turn>"}
-{"text": "<start_of_turn>user\nСочини хокку про ИИ<end_of_turn>\n<start_of_turn>model\nНейросеть мечтает,\\nВеса ищут смысл в нуле,\\nЛосс не упадёт.<end_of_turn>"}
+{"text": "<start_of_turn>user\nСочини хокку про ИИ<end_of_turn>\n<start_of_turn>model\nНейросеть мечтает,\\nВеса ищут смысл в нулю,\\nЛосс не упадёт.<end_of_turn>"}
 {"text": "<start_of_turn>user\nСочини хокку про JavaScript<end_of_turn>\n<start_of_turn>model\nUndefined вновь,\\nNull смотрит в глаза пустым,\\ntypeof — объект.<end_of_turn>"}
 {"text": "<start_of_turn>user\nСочини хокку про сломанный код в цикле<end_of_turn>\n<start_of_turn>model\nЦикл без конца здесь,\\nПроцессор кричит в огне,\\nBreak потерян где-то.<end_of_turn>"}
 {"text": "<start_of_turn>user\nСочини хокку про wi-fi<end_of_turn>\n<start_of_turn>model\nВоздух полон тайн,\\nБайты быстрые летят,\\nБез единых узлов.<end_of_turn>"}
